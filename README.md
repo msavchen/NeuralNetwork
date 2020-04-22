@@ -14,3 +14,5 @@ University subject
 5. #### lab5:
     * implementation of the momentum method in CD-k;
     * implementation of DBN learning and sampling.
+6. #### lab6:
+    * implementation of the back error propagation algorithm.
