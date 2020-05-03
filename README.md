@@ -16,3 +16,6 @@ University subject
     * implementation of DBN learning and sampling.
 6. #### lab6:
     * implementation of the back error propagation algorithm.
+7. #### lab7:
+    * implementation of L1 and L2 costs in the RBM network;
+    * pre-training of the MLP deep network.
