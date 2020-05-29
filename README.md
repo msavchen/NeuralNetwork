@@ -20,15 +20,15 @@ University subject
     * implementation of L1 and L2 costs in the RBM network;
     * pre-training of the MLP deep network.
 8. #### lab8:
-   * implementation of the limit on the weight vector standard;
-   * deep neural networks with ReLU activation function.
+    * implementation of the limit on the weight vector standard;
+    * deep neural networks with ReLU activation function.
 9. #### lab9:
-   * implementation of Dropout regularization.
+    * implementation of Dropout regularization.
 10. #### lab10:
-   * RBM with Gaussian units;
-   * implementation of the auto-associative network with a linear coding layer.
+    * RBM with Gaussian units;
+    * implementation of the auto-associative network with a linear coding layer.
 11. #### lab11:
-   * implementation of the Nestorov method in the auto-associative network;
-   * visualization of the MNIST set using an auto-associative network.
+    * implementation of the Nestorov method in the auto-associative network;
+    * visualization of the MNIST set using an auto-associative network.
 12. #### lab12:
-   * implementation of the convolution neural network.
+    * implementation of the convolution neural network.
