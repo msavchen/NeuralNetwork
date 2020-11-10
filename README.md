@@ -32,3 +32,5 @@ University subject
     * visualization of the MNIST set using an auto-associative network.
 12. #### lab12:
     * implementation of the convolution neural network.
+13. #### lab13:
+    * implementation of the Negative Sampling algorithm.
